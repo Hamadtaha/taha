@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\TAHA\Desktop\Code TAHA\build\windows\x64\CMakeFiles\dd648b01deff2095ae9a6b36624773dc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{20C049BF-C05E-3C06-9DD6-109545283A74}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
